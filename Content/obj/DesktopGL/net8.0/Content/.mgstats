@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/sammc/OneDrive/Documents/Programming/NewLaptopNewNEAproject/Content/Icon.bmp","c:/Users/sammc/OneDrive/Documents/Programming/NewLaptopNewNEAproject/Content/bin/DesktopGL/Content/Icon.xnb","TextureProcessor","Texture2DContent",262282,262229,0.4248921
+"c:/Users/sammc/OneDrive/Documents/Programming/NewLaptopNewNEAproject/Content/MenuFont.spritefont","c:/Users/sammc/OneDrive/Documents/Programming/NewLaptopNewNEAproject/Content/bin/DesktopGL/Content/MenuFont.xnb","FontDescriptionProcessor","SpriteFontContent",539,37913,0.4705331
