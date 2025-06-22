@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewLaptopNewNEAproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b31be8dbf2de8b9e02ba166a86976f353f2ca1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewLaptopNewNEAproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewLaptopNewNEAproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
